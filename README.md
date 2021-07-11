@@ -1,2 +1,1 @@
 # teaching-git
-python
